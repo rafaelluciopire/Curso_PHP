@@ -16,7 +16,7 @@
 	</center>
 <form>
 	<div class="form-group">
-		<label>Usuário</label>
+		<label>Login</label>
 		<input type="text" name="usuario" class="form-control" placeholder="Digite Seu Usuário" autocomplete="off" required>
 	</div>
 	<div class="form-group">
