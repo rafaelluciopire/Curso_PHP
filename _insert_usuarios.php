@@ -21,7 +21,7 @@ $inserir = mysqli_query($conexao, $sql);
 		</center>
 	<div style="padding-top: 20px">
 		<center>
-		<a href="cad_usuarios.php" role="button" class="btn btn-sm btn-primary">Cadastrar Nova Categoria</a>
+		<a href="cad_usuarios.php" role="button" class="btn btn-sm btn-primary">Cadastrar Novo Usuário</a>
 		</center>
 	</div>
 	<div style="padding-top: 20px">
