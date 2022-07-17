@@ -36,8 +36,15 @@
 			<option value="1">Administrador</option>
 			<option value="2">Funcionário</option>
 		</select>
+		
 		<div class="botao" id="botao_entrar">
 		<button type="submit" class="btn btn-sm btn-success">Gravar</button>
+		</div>
+		<center>
+		<div class="botao_voltar" id="botao_voltar">
+		<a href="index.php" role="button" class="btn btn-sm btn-primary">Voltar ao inicio</a>
+		</div>
+		<center>
 	</div>
 </div>
 </form>
