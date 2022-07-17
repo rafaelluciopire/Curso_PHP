@@ -15,7 +15,7 @@
 <form action="_insert_usuarios.php" method="post">
 	<div class="form-group">
 		<label>Nome do Usuário</label>
-		<input type="text" name="nome_usuario" class="form-control" required autocomplete="off" placeholder="Nome Completo">
+		<input type="text" name="nome_usuario" class="form-control" required autocomplete="off" placeholder="Digite seu nome">
 	</div>
 	<div class="form-group">
 		<label>E-mail</label>
